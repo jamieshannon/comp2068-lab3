@@ -1,0 +1,23 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Node.js Simple Calculator",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamieshannon/comp2068-lab3.git"
+  },
+  "author": "Jamie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamieshannon/comp2068-lab3/issues"
+  },
+  "homepage": "https://github.com/jamieshannon/comp2068-lab3#readme",
+  "dependencies": {
+    "connect": "^3.5.0"
+  }
+}
